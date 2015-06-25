@@ -1,6 +1,6 @@
 (ns alphabet-cipher.coder)
 
-(defn ascii-offset [c] (- (int c) 97))
+(defn ascii-offset [c] (- (int c) (int \a)))
 
 (defn translate [keyword message operation]
   (let
@@ -14,12 +14,12 @@
     [row-offset (ascii-offset row)
      col-offset (ascii-offset col)
      wrap-around (fn [c]
-                   (if (> c 122)
+                   (if (> c (int \z))
                      (char (- c 26))
                      (char c))
                    )
      ]
-    (char (wrap-around (+ row-offset col-offset 97)))
+    (char (wrap-around (+ row-offset col-offset (int \a))))
     )
   )
 
@@ -31,7 +31,7 @@
   (let
     [row-offset (ascii-offset row)
      wrap-around (fn [c]
-                   (if (< c 97)
+                   (if (< c (int \a))
                      (char (+ c 26))
                      (char c))
                    )
