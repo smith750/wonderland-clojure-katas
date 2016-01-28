@@ -12,32 +12,32 @@ the alphabet is rotated by one as each letter goes down the chart.
 
 ```
    ABCDEFGHIJKLMNOPQRSTUVWXYZ
- A abcdefghijklmnopqrstuvwxyz 
- B bcdefghijklmnopqrstuvwxyza 
- C cdefghijklmnopqrstuvwxyzab 
- D defghijklmnopqrstuvwxyzabc 
- E efghijklmnopqrstuvwxyzabcd 
- F fghijklmnopqrstuvwxyzabcde 
- G ghijklmnopqrstuvwxyzabcdef 
- H hijklmnopqrstuvwxyzabcdefg 
- I ijklmnopqrstuvwxyzabcdefgh 
- J jklmnopqrstuvwxyzabcdefghi 
- K klmnopqrstuvwxyzabcdefghij 
- L lmnopqrstuvwxyzabcdefghijk 
- M mnopqrstuvwxyzabcdefghijkl 
- N nopqrstuvwxyzabcdefghijklm 
- O opqrstuvwxyzabcdefghijklmn 
- P pqrstuvwxyzabcdefghijklmno 
- Q qrstuvwxyzabcdefghijklmnop 
- R rstuvwxyzabcdefghijklmnopq 
- S stuvwxyzabcdefghijklmnopqr 
- T tuvwxyzabcdefghijklmnopqrs 
- U uvwxyzabcdefghijklmnopqrst 
- V vwxyzabcdefghijklmnopqrstu 
- W wxyzabcdefghijklmnopqrstuv 
- X xyzabcdefghijklmnopqrstuvw 
- Y yzabcdefghijklmnopqrstuvwx 
- Z zabcdefghijklmnopqrstuvwxy 
+ A abcdefghijklmnopqrstuvwxyz
+ B bcdefghijklmnopqrstuvwxyza
+ C cdefghijklmnopqrstuvwxyzab
+ D defghijklmnopqrstuvwxyzabc
+ E efghijklmnopqrstuvwxyzabcd
+ F fghijklmnopqrstuvwxyzabcde
+ G ghijklmnopqrstuvwxyzabcdef
+ H hijklmnopqrstuvwxyzabcdefg
+ I ijklmnopqrstuvwxyzabcdefgh
+ J jklmnopqrstuvwxyzabcdefghi
+ K klmnopqrstuvwxyzabcdefghij
+ L lmnopqrstuvwxyzabcdefghijk
+ M mnopqrstuvwxyzabcdefghijkl
+ N nopqrstuvwxyzabcdefghijklm
+ O opqrstuvwxyzabcdefghijklmn
+ P pqrstuvwxyzabcdefghijklmno
+ Q qrstuvwxyzabcdefghijklmnop
+ R rstuvwxyzabcdefghijklmnopq
+ S stuvwxyzabcdefghijklmnopqr
+ T tuvwxyzabcdefghijklmnopqrs
+ U uvwxyzabcdefghijklmnopqrst
+ V vwxyzabcdefghijklmnopqrstu
+ W wxyzabcdefghijklmnopqrstuv
+ X xyzabcdefghijklmnopqrstuvw
+ Y yzabcdefghijklmnopqrstuvwx
+ Z zabcdefghijklmnopqrstuvwxy
 ```
 
 Both parties need to decide on a secret keyword.  This keyword is not written down anywhere, but memorized.
@@ -91,6 +91,15 @@ Once you have your kata solution, you are welcome to submit a link to your repo 
 * https://github.com/bartiosze/wonderland-clojure-katas/tree/origin-solution/alphabet-cipher
 * https://github.com/armyofevilrobots/wonderland-clojure-katas/tree/aoer_run_mar2015/alphabet-cipher
 * https://github.com/yzernik/wonderland-clojure-katas/tree/master/alphabet-cipher
+* https://github.com/priort/wonderland-clojure-katas/tree/master/alphabet-cipher
+* https://github.com/dfucci/wonderland-clojure-katas/tree/master/alphabet-cipher
+* https://github.com/davidbecker/wonderland-clojure-katas/tree/solution/alphabet-cipher (includes decypher solution)
+* https://github.com/hannestyden/wonderland-clojure-katas/tree/solutions/alphabet-cipher (includes decypher solution)
+* https://github.com/harshita/wonderland-clojure-katas/tree/master/alphabet-cipher (includes decypher solution)
+* https://github.com/bradlucas/wonderland-clojure-katas/tree/alphabet/alphabet-cipher (includes decypher solution)
+* https://github.com/ivern/wonderland-clojure-katas/tree/master/alphabet-cipher (includes decypher solution)
+* https://github.com/ilyabe/wonderland-clojure-katas/tree/master/alphabet-cipher (includes decypher solution)
+* https://github.com/davidpham87/wonderland-clojure-katas/tree/my-training/alphabet-cipher (includes decypher solution)
 
 If you haven't solved your kata yet - Don't Peek!
 

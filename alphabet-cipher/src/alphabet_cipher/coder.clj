@@ -43,3 +43,7 @@
 (defn decode [keyword message]
   (translate keyword message decode-char)
   )
+
+(defn decipher [cipher message]
+  "decypherme")
+
